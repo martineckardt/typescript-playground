@@ -1,4 +1,4 @@
-import Point from "./point";
+import Point from "./Point";
 import ColorfulPoint from "./ColorfulPoint";
 
 

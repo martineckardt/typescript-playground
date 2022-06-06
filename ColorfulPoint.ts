@@ -1,4 +1,4 @@
-import Point from "./point";
+import Point from "./Point";
 import IColorful, { Color } from "./IColorful";
 
 class ColorfulPoint extends Point implements IColorful {
